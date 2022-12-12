@@ -4,6 +4,7 @@ public class Homework12 {
 
 
 
+
     // TASK 1
     public static String noDigit(String str){
         return str.replaceAll("[0-9]", "");
