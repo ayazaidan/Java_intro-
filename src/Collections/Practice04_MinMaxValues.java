@@ -43,7 +43,8 @@ public class Practice04_MinMaxValues {
      */
 
     public static Integer max(Integer[] arr){
-       return new TreeSet<>(Arrays.asList(arr)).pollLast();
+
+        return new TreeSet<>(Arrays.asList(arr)).pollLast();
     }
 
     /*
