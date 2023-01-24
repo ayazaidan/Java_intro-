@@ -18,7 +18,7 @@ public class Homework14 {
         else if (argument % 5 == 0) return "Buzz";
         else if (argument % 3 == 0) return "Fizz";
         return argument + "";
-    }
+   }
 
 
     // Task 3
